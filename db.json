@@ -73,7 +73,7 @@
   },
   {
     "key": 10,
-    "float": null,
+    "float": 67.5,
     "text": "Item10",
     "dateTime": "2020-11-30T09:30:00.000Z",
     "selected": false,
