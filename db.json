@@ -1,0 +1,82 @@
+[
+  {
+    "key": 1,
+    "float": null,
+    "text": "Item1",
+    "dateTime": "2020-11-30T09:30:00.000Z",
+    "selected": true,
+    "time": "04:04:07"
+  },
+  {
+    "key": 2,
+    "float": null,
+    "text": "Item2",
+    "dateTime": "2020-11-30T09:30:00.000Z",
+    "selected": false,
+    "time": "04:04:07"
+  },
+  {
+    "key": 3,
+    "float": null,
+    "text": "Item3",
+    "dateTime": "2020-11-30T09:30:00.000Z",
+    "selected": false,
+    "time": "04:04:07"
+  },
+  {
+    "key": 4,
+    "float": null,
+    "text": "Item4",
+    "dateTime": "2020-11-30T09:30:00.000Z",
+    "selected": true,
+    "time": "04:04:07"
+  },
+  {
+    "key": 5,
+    "float": null,
+    "text": "Item5",
+    "dateTime": "2020-11-30T09:30:00.000Z",
+    "selected": true,
+    "time": "04:04:07"
+  },
+  {
+    "key": 6,
+    "float": null,
+    "text": "Item6",
+    "dateTime": "2020-11-30T09:30:00.000Z",
+    "selected": false,
+    "time": "04:04:07"
+  },
+  {
+    "key": 7,
+    "float": null,
+    "text": "Item7",
+    "dateTime": "2020-11-30T09:30:00.000Z",
+    "selected": false,
+    "time": "04:04:07"
+  },
+  {
+    "key": 8,
+    "float": null,
+    "text": "Item8",
+    "dateTime": "2020-11-30T09:30:00.000Z",
+    "selected": false,
+    "time": "04:04:07"
+  },
+  {
+    "key": 9,
+    "float": null,
+    "text": "Item9",
+    "dateTime": "2020-11-30T09:30:00.000Z",
+    "selected": true,
+    "time": "04:04:07"
+  },
+  {
+    "key": 10,
+    "float": null,
+    "text": "Item10",
+    "dateTime": "2020-11-30T09:30:00.000Z",
+    "selected": false,
+    "time": "04:04:07"
+  }
+]
