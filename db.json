@@ -4,7 +4,7 @@
     "key": 1,
     "float": 10.5,
     "text": "Item1",
-    "dateTime": "2020-11-30T09:30:00.000Z",
+    "dateTime": "2020-11-30",
     "selected": true,
     "time": "04:04:07"
   },
@@ -12,7 +12,7 @@
     "key": 2,
     "float": 11.2,
     "text": "Item2",
-    "dateTime": "2020-11-30T09:30:00.000Z",
+    "dateTime": "2020-12-01",
     "selected": false,
     "time": "04:04:07"
   },
@@ -20,7 +20,7 @@
     "key": 3,
     "float": 17.9,
     "text": "Item3",
-    "dateTime": "2020-11-30T09:30:00.000Z",
+    "dateTime": "2020-12-05",
     "selected": false,
     "time": "04:04:07"
   },
@@ -28,7 +28,7 @@
     "key": 4,
     "float": 24.5,
     "text": "Item4",
-    "dateTime": "2020-11-30T09:30:00.000Z",
+    "dateTime": "2020-12-07",
     "selected": true,
     "time": "04:04:07"
   },
@@ -36,7 +36,7 @@
     "key": 5,
     "float": 5.4,
     "text": "Item5",
-    "dateTime": "2020-11-30T09:30:00.000Z",
+    "dateTime": "2020-12-10",
     "selected": true,
     "time": "04:04:07"
   },
@@ -44,7 +44,7 @@
     "key": 6,
     "float": 6.7,
     "text": "Item6",
-    "dateTime": "2020-11-30T09:30:00.000Z",
+    "dateTime": "2020-12-12",
     "selected": false,
     "time": "04:04:07"
   },
@@ -52,7 +52,7 @@
     "key": 7,
     "float": 102.8,
     "text": "Item7",
-    "dateTime": "2020-11-30T09:30:00.000Z",
+    "dateTime": "2020-12-15",
     "selected": false,
     "time": "04:04:07"
   },
@@ -60,7 +60,7 @@
     "key": 8,
     "float": 51.6,
     "text": "Item8",
-    "dateTime": "2020-11-30T09:30:00.000Z",
+    "dateTime": "2020-12-18",
     "selected": false,
     "time": "04:04:07"
   },
@@ -68,7 +68,7 @@
     "key": 9,
     "float": 98.4,
     "text": "Item9",
-    "dateTime": "2020-11-30T09:30:00.000Z",
+    "dateTime": "2020-12-20",
     "selected": true,
     "time": "04:04:07"
   },
@@ -76,7 +76,7 @@
     "key": 10,
     "float": 67.5,
     "text": "Item10",
-    "dateTime": "2020-11-30T09:30:00.000Z",
+    "dateTime": "2020-12-30",
     "selected": false,
     "time": "04:04:07"
   }
